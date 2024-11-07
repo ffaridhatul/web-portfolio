@@ -10,8 +10,8 @@ export default {
           imageUrl: 'portfolio_v2',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/ffaridhatul',
-          demo: 'https://personal-website-ffaridhatuls-projects.vercel.app/'
+          github: 'https://github.com/ffaridhatul/web-portfolio',
+          demo: 'null'
         },
         {
           id: 2,
