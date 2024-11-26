@@ -11,7 +11,25 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/ffaridhatul/web-portfolio',
-          demo: 'https://web-portfolio-ffaridhatuls-projects.vercel.app/'
+          demo: 'null'
+        },
+        {
+          id: 11,
+          name: 'Multi-Restaurant Website',
+          imageUrl: 'Multi-Restaurant',
+          status: 'The Multi-Restaurant Online Food Ordering System using Spring Boot & React Js is a comprehensive platform that enables administrators to manage food categories, restaurants to register and add menus, customers to order food from various restaurants, and delivery personnel to update delivery statuses, with all activities monitored by the admin.',
+          tech: 'Spring Boot, React Js, MySQL',
+          github: 'null',
+          demo: "null"
+        },
+        {
+          id: 10,
+          name: 'Job Portal',
+          imageUrl: 'Jobportal',
+          status: 'Developing a Job Portal web application using Spring Boot 3, featuring user registration, authentication, job search and management, application tracking, and an admin panel for data management.',
+          tech: 'Spring Boot, Thymeleaf, CSS, JQuery',
+          github: 'null',
+          demo: "null"
         },
         {
           id: 2,
