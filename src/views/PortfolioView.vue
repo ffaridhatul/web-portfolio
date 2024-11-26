@@ -16,7 +16,7 @@ export default {
         {
           id: 11,
           name: 'Multi-Restaurant Website',
-          imageUrl: 'Multi-Restaurant',
+          imageUrl: 'MultiRestaurant',
           status: 'The Multi-Restaurant Online Food Ordering System using Spring Boot & React Js is a comprehensive platform that enables administrators to manage food categories, restaurants to register and add menus, customers to order food from various restaurants, and delivery personnel to update delivery statuses, with all activities monitored by the admin.',
           tech: 'Spring Boot, React Js, MySQL',
           github: 'null',
